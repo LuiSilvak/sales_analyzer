@@ -67,8 +67,8 @@ Saída:
     ===========================
     Total de Vendas: R$4615.00
     Média de Vendas: R$1153.75
-    Produto Mais Vendido: Produto C
-    Produto Mais Rentável: Produto C
+    Produto Mais Vendido: Produto 001
+    Produto Mais Rentável: Produto 049
 ```
 
 
